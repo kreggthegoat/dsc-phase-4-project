@@ -1,4 +1,4 @@
-# Phase 4 Project : Movie Recommendation System
+# Movie Recommendation System
 
 Author: Kregg Jackson
 
